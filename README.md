@@ -1,5 +1,5 @@
 # GitAndGIthub 
- 
+  
 Git Cheat Sheet
   
 Basic Commands
