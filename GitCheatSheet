@@ -11,7 +11,7 @@ git diff
 diff of what is changed but not staged
 git diff --staged 
 diff of what is staged but not yet committed
-git commit -m “[descriptive message]”
+git commit -m “[descriptive message]” 
 commit your staged content as a new commit snapshot 
 SETUP
 Configuring user information used across all local repositories
