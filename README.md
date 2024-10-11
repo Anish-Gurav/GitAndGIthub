@@ -3,7 +3,7 @@
 Git Cheat Sheet 
   
 Basic Commands
-
+ 
   - git init: Initialize a new Git repository in the current directory.
   - git clone : Clone an existing Git repository from a remote URL.
   - git add : Stage changes in a file to be committed.
