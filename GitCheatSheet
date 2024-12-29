@@ -1,5 +1,5 @@
 GIT CHEAT SHEET    
-STAGE & SNAPSHOT   
+STAGE & SNAPSHOT    
 Working with snapshots and the Git staging area
 git status
 show modified files in working directory, staged for your next commit 
