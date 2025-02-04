@@ -1,6 +1,6 @@
  # GitAndGIthub         
           
-Git Cheat Sheet    
+Git Cheat Sheet     
    
 Basic Commands 
  
