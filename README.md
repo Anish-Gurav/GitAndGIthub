@@ -2,7 +2,7 @@
           
 Git Cheat Sheet     
    
-Basic Commands 
+Basic Commands  
  
   - git init: Initialize a new Git repository in the current directory.
   - git clone : Clone an existing Git repository from a remote URL.
