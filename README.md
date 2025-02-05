@@ -1,7 +1,7 @@
  # GitAndGIthub         
           
 Git Cheat Sheet     
-   
+    
 Basic Commands  
  
   - git init: Initialize a new Git repository in the current directory.
